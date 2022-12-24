@@ -1,0 +1,4 @@
+If the type to of an expression is a reference type expression
+Then the class of the is referenced object, or even a whether
+The value is a reference if to an object Is a rather than null
+Is not a necessarily known at is compile time Is Then the null
